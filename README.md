@@ -52,7 +52,6 @@ To create a reliable classification model that predicts "generous tipping" behav
 These results indicate that the XGBoost model is effective in predicting generous tippers, with a strong balance between precision and recall.
 
 ---
-
-## 📌 Author
-
-**Ali Krisht**  
+## 👤 Author
+Ali Krisht   
+[LinkedIn](https://linkedin.com/in/alikrisht)
